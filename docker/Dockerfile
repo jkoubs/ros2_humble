@@ -24,6 +24,7 @@ RUN apt-get update --fix-missing && \
                        ros-humble-joint-state-publisher-gui \
                        ros-humble-gazebo-ros-pkgs \
                        ros-humble-rviz2 \
+                       ros-humble-rmw-cyclonedds-cpp \
                        qtbase5-dev \
                        libqt5svg5-dev \
                        libzmq3-dev \
