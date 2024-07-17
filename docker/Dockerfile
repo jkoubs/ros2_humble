@@ -25,6 +25,10 @@ RUN apt-get update --fix-missing && \
                        ros-humble-gazebo-ros-pkgs \
                        ros-humble-rviz2 \
                        ros-humble-rmw-cyclonedds-cpp \
+                       ros-humble-robot-localization \
+                       ros-humble-mapviz \
+                       ros-humble-mapviz-plugins \
+                       ros-humble-tile-map \
                        qtbase5-dev \
                        libqt5svg5-dev \
                        libzmq3-dev \
